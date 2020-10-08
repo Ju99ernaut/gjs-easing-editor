@@ -14,7 +14,7 @@ Clone the repository
 
 ```sh
 $ git clone https://github.com/Ju99ernaut/gjs-easing-editor.git
-$ cd grapesjs-blockly
+$ cd grapesjs-easing-editor
 ```
 
 ## License
